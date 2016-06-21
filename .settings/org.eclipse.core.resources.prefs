@@ -1,4 +1,5 @@
 eclipse.preferences.version=1
+encoding//farm/models/removal_event.py=utf-8
 encoding//medical/__init__.py=utf-8
 encoding//medical/__openerp__.py=utf-8
 encoding//medical/medical_constants.py=utf-8
@@ -36,6 +37,3 @@ encoding//medical_prescription/models/medical_prescription_order_line.py=utf-8
 encoding//medical_prescription_sale/__openerp__.py=utf-8
 encoding//medical_prescription_state/__openerp__.py=utf-8
 encoding//medical_prescription_thread/__openerp__.py=utf-8
-encoding//oemedical_genetics/__init__.py=utf-8
-encoding//oemedical_icu/__init__.py=utf-8
-encoding//oemedical_invoice/__openerp__.py=utf-8
