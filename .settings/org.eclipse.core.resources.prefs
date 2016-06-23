@@ -1,6 +1,7 @@
 eclipse.preferences.version=1
 encoding//farm/__init__.py=utf-8
 encoding//farm/__openerp__.py=utf-8
+encoding//farm/models/removal_event.py=utf-8
 encoding//farm_general_feed_event/__init__.py=utf-8
 encoding//farm_general_feed_event/__openerp__.py=utf-8
 encoding//farm_prescription/__openerp__.py=utf-8
