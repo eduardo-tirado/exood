@@ -34,7 +34,7 @@ class RemovalEvent(models.Model):
     reason = fields.Many2one(comodel_name='farm.removal.reason',
                              string='Reason')
     move = fields.Many2one(comodel_name='stock.move', string='Stock Move')
-    specific_lot = fields.Many2one(comodel_name='stock.production.lot', string='Specific lot')
+    specific_lot = fields.Many2one(comodel_name='stock.production_lot', string='Specific lot')
 
     @api.one
     @api.onchange('animal', 'animal_group')
